@@ -85,4 +85,3 @@
   * Indesign   
   * After Effects  
   * Premiere
-  * Premiere
